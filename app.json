@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/indexDetail/indexDetail",
+    "pages/seatDetail/seatDetail",
+    "pages/cumpusDetail/cumpusDetail",
+    "pages/seat/seat",
+    "pages/cumpus/cumpus"
+   
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6979ff",
+    "navigationBarTitleText": "首页",
+    "navigationBarTextStyle": "#fff"
+  }
+}

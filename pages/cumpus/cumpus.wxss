@@ -1,0 +1,43 @@
+/**index.wxss**/
+@import "../../wxParse/wxParse.wxss"; 
+page{
+	overflow:hidden;
+}
+.main{
+	width:100%;
+	height:100vh;
+	position:relative;
+	overflow:hidden;
+}
+.main image{
+	width:100%;
+	height:100%;
+}
+.main_cont{
+	width:100%;
+	height:100%;
+	position: absolute;
+	left:0;
+	top:0;
+}
+.contain{
+	top:360rpx;
+	width:100%;
+	height:666rpx;
+}
+.entrance{
+	width:74%;
+	margin:0 auto;
+}
+.cumpus{
+	width:100%;
+	height:86rpx;
+	border-radius:10rpx;
+	background:rgba(255,255,255,0.8);
+	text-align:center;
+	line-height:86rpx;
+	margin-bottom:18rpx;
+}
+.color{
+	color:#3b8fe5;
+}

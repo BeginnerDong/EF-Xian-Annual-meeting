@@ -1,0 +1,49 @@
+<!--index.wxml-->
+<view class="main">
+    <image src="/images/img.jpg"></image>
+    <view class="main_cont flex">
+    	<view class="contain">
+    		<view class="entrance flexRowBetween">
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail">
+    				<view class="entrance_item_in">
+    					<view class="entrance_item_img">
+    						<image src="/images/icon1.png"></image>
+    					</view>
+    					<view class="color font28">年会信息</view>
+    					<view class="color font24">EVENT</view>
+    					<view class="color font24">INFORMATION</view>
+    				</view>
+    			</view>
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail">
+    				<view class="entrance_item_in">
+    					<view class="entrance_item_img">
+    						<image src="/images/icon2.png"></image>
+    					</view>
+    					<view class="color font28">酒店指引</view>
+    					<view class="color font24">VENUE</view>
+    					<view class="color font24">DIRECTION</view>
+    				</view>
+    			</view>
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/seat/seat">
+    				<view class="entrance_item_in">
+    					<view class="entrance_item_img">
+    						<image src="/images/icon3.png"></image>
+    					</view>
+    					<view class="color font28">席位安排</view>
+    					<view class="color font24">SEATING</view>
+    					<view class="color font24">PLAN</view>
+    				</view>
+    			</view>
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail">
+    				<view class="entrance_item_in">
+    					<view class="entrance_item_img">
+    						<image src="/images/icon4.png"></image>
+    					</view>
+    					<view class="color font28">晚宴流程</view>
+    					<view class="color font24">PROGRAMME</view>
+    				</view>
+    			</view>
+    		</view>
+    	</view>
+    </view>
+</view>

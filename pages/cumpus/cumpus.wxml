@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<view class="main">
+    <image src="/images/img2.jpg"></image>
+    <view class="main_cont flex">
+    	<view class="entrance">
+    		<view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+    			Xi'An 1 小寨校区
+    		</view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 2 高新校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 3 交大校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 4 经开校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 5 曲江校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 6 高新二校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 7咸宁路校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Xi'An 8 吉祥路校区
+            </view>
+            <view class="cumpus font34 color" bindtap="intoPath" data-path="/pages/cumpusDetail/cumpusDetail">
+                Functional Dep. 职能部门
+            </view>
+    	</view>
+    </view>
+</view>
