@@ -14,7 +14,7 @@
     					<view class="color font24">ARRANGEMENT</view>
     				</view>
     			</view>
-    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/seatDetail/seatDetail">
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail?id=148">
     				<view class="entrance_item_in">
     					<view class="entrance_item_img">
     						<image src="/images/icon6.png"></image>

@@ -1,4 +1,0 @@
-<!--index.wxml-->
-<view class="main flex">
-    <image src="/images/empty.png"></image>
-</view>

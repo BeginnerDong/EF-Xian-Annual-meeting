@@ -4,7 +4,7 @@
     <view class="main_cont flex">
     	<view class="contain">
     		<view class="entrance flexRowBetween">
-    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail">
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail?id=136">
     				<view class="entrance_item_in">
     					<view class="entrance_item_img">
     						<image src="/images/icon1.png"></image>
@@ -14,7 +14,7 @@
     					<view class="color font24">INFORMATION</view>
     				</view>
     			</view>
-    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail">
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail?id=137">
     				<view class="entrance_item_in">
     					<view class="entrance_item_img">
     						<image src="/images/icon2.png"></image>
@@ -34,7 +34,7 @@
     					<view class="color font24">PLAN</view>
     				</view>
     			</view>
-    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail">
+    			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/indexDetail/indexDetail?id=138">
     				<view class="entrance_item_in">
     					<view class="entrance_item_img">
     						<image src="/images/icon4.png"></image>

@@ -2,8 +2,7 @@
   "pages": [
     "pages/index/index",
     "pages/indexDetail/indexDetail",
-    "pages/seatDetail/seatDetail",
-    "pages/cumpusDetail/cumpusDetail",
+
     "pages/seat/seat",
     "pages/cumpus/cumpus"
    

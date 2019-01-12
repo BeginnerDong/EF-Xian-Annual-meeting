@@ -1,4 +1,7 @@
 <!--index.wxml-->
-<view class="main flex">
+<view class="main flex" wx:if="{{web_mainData.mainImg.length==0}}">
     <image src="/images/empty.png"></image>
+</view>
+<view class="detail flex">
+	<image src="{{web_mainData.mainImg[0].url}}" mode="widthFix"></image>
 </view>
