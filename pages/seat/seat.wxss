@@ -43,6 +43,6 @@ page{
 	text-align:center
 }
 .entrance_item_img image{
-	width:100rpx;
-	height:100rpx;
+	width:104rpx;
+	height:86rpx;
 }

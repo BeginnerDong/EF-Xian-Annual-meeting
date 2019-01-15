@@ -2,7 +2,6 @@
   "pages": [
     "pages/index/index",
     "pages/indexDetail/indexDetail",
-
     "pages/seat/seat",
     "pages/cumpus/cumpus"
    

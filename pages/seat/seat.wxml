@@ -7,7 +7,7 @@
     			<view class="entrance_item flex" bindtap="intoPath" data-path="/pages/cumpus/cumpus">
     				<view class="entrance_item_in" >
     					<view class="entrance_item_img">
-    						<image src="/images/icon5.png"></image>
+    						<image src="/images/icon5.png" style="width:116rpx;height:80rpx"></image>
     					</view>
     					<view class="color font28">我的座位</view>
     					<view class="color font24">MY SEATING</view>
@@ -20,8 +20,7 @@
     						<image src="/images/icon6.png"></image>
     					</view>
     					<view class="color font28">座位分布</view>
-    					<view class="color font24">TABLE</view>
-    					<view class="color font24">PALN</view>
+    					<view class="color font24">TABLE PALN</view>
     				</view>
     			</view>
     		</view>
